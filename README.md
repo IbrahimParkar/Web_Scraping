@@ -32,10 +32,3 @@ The extracted data is saved in `Companies.csv`, with columns such as:
 
 ## Contributing
 If you'd like to contribute to this project, feel free to submit a pull request. For major changes, please open an issue to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-This README reflects the usage of the Jupyter notebook and the CSV output file. You can further adjust it based on any additional information or changes.
